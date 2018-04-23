@@ -1,0 +1,2 @@
+# Slider
+Test task: slider
